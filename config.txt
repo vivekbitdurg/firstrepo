@@ -1,0 +1,10 @@
+###### Initialize environment variables ###########
+Landing_Dir = C:/Vivek/Work/Projects/Gold_Care_Phase_1/03_Coding_Workspace/Landing/
+Process_Dir = C:/Vivek/Work/Projects/Gold_Care_Phase_1/03_Coding_Workspace/Processing/
+Archiv_Dir = C:/Vivek/Work/Projects/Gold_Care_Phase_1/03_Coding_Workspace/Archived/
+Error_Dir =  C:/Vivek/Work/Projects/Gold_Care_Phase_1/03_Coding_Workspace/Error/
+Log_Dir = C:/Vivek/Work/Projects/Gold_Care_Phase_1/03_Coding_Workspace/Logs
+Driver = {SQL Server Native Client 11.0}
+Server = INDIALTP00016\SQLEXPRESS
+Database = Gold_Care
+Trusted_Connection = yes
